@@ -3,6 +3,7 @@ from tkinter import messagebox
 from UI import Labels
 from Animation import Animation
 import re
+import PIL
 
 
 def start_animation():
