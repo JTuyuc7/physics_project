@@ -32,7 +32,7 @@ def restart_animation():
 
 
 root = tk.Tk()
-root.geometry("400x400")
+root.geometry("500x400")
 root.title("Tiro parabolico")
 
 # @ Mostrar datos iniciales
